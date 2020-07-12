@@ -17,4 +17,6 @@ after downloading the repo following steps to create the folder according to cod
                     dogs_cats_LR-0.0003_MODEL-CovNet-128(2)-64(2)-32(2)-512-128-1.h5
          |
 
-  # 4 run the code and submission.file generate with .78 acccuracy.                 
+  # 4 run the code and submission.file generate with .78 acccuracy.
+  
+  # For further detail read working.txt file
